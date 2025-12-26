@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: ec19e274-ce51-4888-8785-014598a9e66c
+      url: 'https://jkang.quarto.pub/blogq'
