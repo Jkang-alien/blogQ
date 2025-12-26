@@ -1,1 +1,1 @@
-Sitemap: https://jkang.quarto.pub/blogq/sitemap.xml
+Sitemap: https://62c71718-5f48-4ca3-be91-e2018050cd13.netlify.app/sitemap.xml
